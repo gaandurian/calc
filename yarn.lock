@@ -6143,7 +6143,7 @@ makeerror@1.0.12:
   dependencies:
     tmpl "1.0.5"
 
-mathjs@*, mathjs@^11.4.0:
+mathjs@*:
   version "11.4.0"
   resolved "https://registry.yarnpkg.com/mathjs/-/mathjs-11.4.0.tgz#9dadfac3470ffcbeeff4abf53a0c7b93bb3a7a02"
   integrity sha512-SGhKmXnwsPWrLHvhzm849RJPMjFTgLgVwKtv2L+IY7XHB4nuzyZLfV2eHT1HtBZ4yzsLHgcqak47zMmxuEIIUg==
